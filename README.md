@@ -66,3 +66,10 @@ Filter the data to only show cars with a price greater than $3,000 and display t
 - Created pivot tables according to the question asked.
 
 - Merged all pivot tables into onedashboard and applied slicer to make it dynamic.
+
+
+##Dashboard 
+
+https://github.com/Helen2000-analyst/Helen-portfolio-site/blob/main/Screenshot%20(507).png
+
+
