@@ -74,4 +74,17 @@ Filter the data to only show cars with a price greater than $3,000 and display t
 
 
 
+## Project Insights
+
+- Overall bussiness performace: The dashboard shows a strong financial position, with the total selling price exceeding the total acquisition cost, indicating positive profitability. The business is generating healthy returns across its mix of car brands, colors, and models.
+
+- Top Performing brand: Toyota, Honda, and Chevrolet consistently appear across the visualizations and display strong price performance. These brands contribute significantly to overall revenue and show reliable customer demand.
+
+- Consumer's colour preference: Black and Green vehicles show high representation in both pricing and mileage segments. These colors appear to be strongly preferred by customers and are likely to sell faster. This suggests an opportunity to increase inventory in these specific color categories.
+
+- Model Cost and Profitability: Models such as Accord, Camry, and Altima appear among the higher-cost acquisitions. While these models are popular, their higher cost structure may reduce profit margins unless paired with matching or premium selling prices.
+
+## Final conclusion
+
+The dashboard shows that the car sales business is profitable, with selling prices exceeding total costs. Certain colors (Green, Black) and makes (Honda, Toyota, Chevrolet) demonstrate stronger performance, while mileage varies widely across cars. The charts and slicers help identify trends in price, cost, and mileage across different vehicle categories.
 
