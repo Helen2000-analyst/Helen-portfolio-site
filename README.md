@@ -70,6 +70,6 @@ Filter the data to only show cars with a price greater than $3,000 and display t
 
 ##Dashboard 
 
-https://github.com/Helen2000-analyst/Helen-portfolio-site/blob/main/Screenshot%20(507).png
+
 
 
