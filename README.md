@@ -70,7 +70,8 @@ Filter the data to only show cars with a price greater than $3,000 and display t
 
 ## Dashboard 
 
-"C:\Users\DELL\Pictures\Screenshots\Screenshot (507).png"
+<img width="1083" height="603" alt="Screenshot (507)" src="https://github.com/user-attachments/assets/5df7abc6-b68c-45aa-939d-e997e19d7ebe" />
+
 
 
 
