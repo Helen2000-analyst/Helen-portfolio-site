@@ -8,7 +8,7 @@ Helen car sales company wants to create an annual sales report for 2024. So that
 
 - <a href= "https://d.docs.live.net/1e3a355d72250c12/Documenti/CAR%20PIVOT.xlsx">Dataset</a>
 
-## Questuons [KPI's] 
+## Questions [KPI's] 
 
 -1.	Total Price by Make
  Create a pivot table showing the total price of cars grouped by the Make.
