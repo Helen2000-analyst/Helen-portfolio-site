@@ -1,5 +1,14 @@
 # Helen-Car-Pivot-Sales-Data-Analysis (Interactive Dashboard creation using MS Excel)
 
+
+## About Dataset
+
+This dataset was sourced from kaggle. It contains 25 rows and 6 columns which includes the make, the model, the colour, the mileage, the price and the cost columns.
+
+<img width="664" height="751" alt="Screenshot (604)" src="https://github.com/user-attachments/assets/124b7ca9-c7e8-4079-b0a6-ebbc4a292743" />
+
+
+
 ## Project Objective
 
 - To analyze car sales data and identify trends across make, model, color, price, cost, and mileage.
