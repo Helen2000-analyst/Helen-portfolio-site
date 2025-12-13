@@ -2,7 +2,13 @@
 
 ## Project Objective
 
-Helen car sales company wants to create an annual sales report for 2024. So that, the owner will understand their customers and grow more sales in the coming year.
+- To analyze car sales data and identify trends across make, model, color, price, cost, and mileage.
+- To evaluate the relationship between vehicle color and pricing/mileage to understand customer preferences.
+- To compare sales performance by car make and model and identify high- and low-performing categories.
+- To provide actionable insights that support pricing strategies, inventory planning, and sales optimization.
+- To design an interactive dashboard that enables stakeholders to make data-driven decisions through filters and visual summaries.
+
+  
 
 ## Dataset used
 
@@ -70,7 +76,9 @@ Filter the data to only show cars with a price greater than $3,000 and display t
 
 ## Dashboard 
 
-<img width="1083" height="603" alt="Screenshot (507)" src="https://github.com/user-attachments/assets/5df7abc6-b68c-45aa-939d-e997e19d7ebe" />
+
+<img width="1223" height="706" alt="Screenshot (603)" src="https://github.com/user-attachments/assets/49f28ab2-aa0a-418e-bfe9-344229a78fa9" />
+
 
 
 
@@ -83,6 +91,36 @@ Filter the data to only show cars with a price greater than $3,000 and display t
 - Consumer's colour preference: Black and Green vehicles show high representation in both pricing and mileage segments. These colors appear to be strongly preferred by customers and are likely to sell faster. This suggests an opportunity to increase inventory in these specific color categories.
 
 - Model Cost and Profitability: Models such as Accord, Camry, and Altima appear among the higher-cost acquisitions. While these models are popular, their higher cost structure may reduce profit margins unless paired with matching or premium selling prices.
+
+
+## Recommendations
+
+- Focus on High-Value Colors.
+  
+  - Silver, Black, and White show strong price and mileage contributions.
+  - Prioritize stocking and promoting these colors, as they appear more profitable and popular.
+
+- Mileage Management Strategy.
+  
+  - Brands like Chevrolet and Honda have higher total mileage.
+  - Introduce mileage-based pricing tiers or warranties to maintain buyer confidence.
+
+- Optimize Pricing by Make.
+ 
+  - Ford, Honda, and Chevrolet record higher total prices.
+  - Maintain competitive pricing for these brands and consider premium positioning for high-demand models.
+
+- Cost Control on Low-Return Models.
+  
+  - Some models show higher costs but lower sales value.
+  - Reassess procurement strategy for underperforming models to reduce overhead.
+
+- Targeted Marketing.
+  
+  - Promote low-mileage, high-price vehicles in ads and campaigns.
+  - Highlight “best value” cars using price-to-mileage ratios.
+
+   
 
 ## Final conclusion
 
